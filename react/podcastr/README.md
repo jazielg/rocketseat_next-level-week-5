@@ -30,7 +30,7 @@ Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/),
 ### Iniciar Aplicação
 
 ```bash
-# Diretório da API
+# Diretório da aplicação
 cd react/podcastrnext
 
 # Instalar dependências
@@ -56,5 +56,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Tema Dark;
 
 - Criar essa aplicação com Electron.
+
+---
 
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](https://rocketseat.com.br/).</sup>

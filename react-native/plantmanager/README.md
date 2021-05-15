@@ -36,7 +36,7 @@ Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/),
 ### Iniciar Aplicação
 
 ```bash
-# Diretório da API
+# Diretório da aplicação
 cd react-native/plantmanager
 
 # Instalar dependências
@@ -52,5 +52,7 @@ json-server ./src/services/server.json --host 192.168.0.107 --port 3333 --delay 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate).
+
+---
 
 <sup>Projeto desenvolvido com a tutoria de [Rodrigo Gonçalves S.](https://github.com/rodrigorgtic), da [Rocketseat](https://rocketseat.com.br/).</sup>
