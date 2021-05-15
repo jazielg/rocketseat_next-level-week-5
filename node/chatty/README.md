@@ -1,5 +1,3 @@
-# Rocketseat Next Level Week #5
-
 <h1 align="center">
   Chatty
 </h1>
@@ -39,7 +37,7 @@ cd node/chatty
 # Instalar dependências
 yarn install
 
-# Rodas as migrações
+# Rodar as migrações
 yarn typeorm migration:run
 
 # Iniciar servidor rodando na porta 3333 (http://localhost:3333)

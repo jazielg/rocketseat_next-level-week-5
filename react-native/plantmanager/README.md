@@ -1,5 +1,3 @@
-# Rocketseat Next Level Week #5
-
 <h1 align="center">
   <img alt="podcastr" title="podcastr" src=".github/logo.png" />
 </h1>
