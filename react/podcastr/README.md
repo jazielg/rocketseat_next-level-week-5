@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Como usar
 
-Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), Node.js v14+ e [Yarn](https://yarnpkg.com/) instalado.
+Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) v14+ e [Yarn](https://yarnpkg.com/) instalado.
 
 ### Iniciar Aplicação
 
@@ -47,13 +47,13 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🧠 Desafio
 
-- Fazer o layout responsivo;
+- Criar o layout responsivo;
 
-- PWA (next-pwa);
+- PWA [next-pwa](https://github.com/shadowwalker/next-pwa);
 
 - Tema Dark;
 
-- Criar essa aplicação com Electron.
+- Criar essa aplicação com [Electron](https://www.electronjs.org).
 
 ---
 

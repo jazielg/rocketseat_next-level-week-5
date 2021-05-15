@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Como usar
 
-Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), Node.js v14+ e [Yarn](https://yarnpkg.com/) instalado.
+Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) v14+ e [Yarn](https://yarnpkg.com/) instalado.
 
 ### Iniciar Aplicação
 
