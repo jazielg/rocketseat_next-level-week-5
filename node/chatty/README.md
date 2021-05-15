@@ -3,10 +3,10 @@
 </h1>
 
 <h1 align="center">
-    <img alt="client1" title="client1" src=".github/client1.png" width="245px" />
-    <img alt="admin1" title="admin1" src=".github/admin1.png" width="245px" />
-    <img alt="client2" title="client2" src=".github/client2.png" width="245px" />
-    <img alt="admin2" title="admin2" src=".github/admin2.png" width="245px" />
+    <img alt="client1" title="Cliente" src=".github/client1.png" width="245px" />
+    <img alt="admin1" title="Admin" src=".github/admin1.png" width="245px" />
+    <img alt="admin2" title="Admin" src=".github/admin2.png" width="245px" />
+    <img alt="client2" title="Cliente" src=".github/client2.png" width="245px" />
 </h1>
 
 ## 💻 Projeto
